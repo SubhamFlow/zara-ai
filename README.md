@@ -1,6 +1,6 @@
 # Zara AI 
 
-Zara AI is a lightweight, high-performance chat interface designed for seamless interaction with Large Language Models. Instead of hosting a custom model, the application serves as a sophisticated bridge to the Mistral architecture via a third-party API, providing users with an intuitive and responsive environment for AI-driven conversations.
+Zara AI is a lightweight, high-performance chat interface., the application serves as a bridge to the Mistral architecture via a third-party API, providing users with an intuitive and responsive environment for AI-driven conversations.
 
 # Used Technologies 
 

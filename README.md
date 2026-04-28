@@ -1,12 +1,14 @@
-# React + Vite
+#| Zara AI |
+Zara AI is a lightweight, high-performance chat interface designed for seamless interaction with Large Language Models. Instead of hosting a custom model, the application serves as a sophisticated bridge to the Mistral architecture via a third-party API, providing users with an intuitive and responsive environment for AI-driven conversations.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Used Technologies 
 
-Currently, two official plugins are available:
+React: Used for building a dynamic, component-based user interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Vite: The frontend build tool providing an ultra-fast development experience.
 
-## Expanding the ESLint configuration
+Tailwind CSS: Provides a modern, utility-first styling framework for a sleek and responsive design.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Mistral AI: The underlying Large Language Model providing intelligent, high-speed reasoning.
+
+Together AI API: The integration layer used to perform fast inference and manage model requests.

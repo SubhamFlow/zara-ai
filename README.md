@@ -12,4 +12,4 @@ Tailwind CSS: Provides a modern, utility-first styling framework for a sleek and
 
 Gemini AI: The underlying Large Language Model providing intelligent, high-speed reasoning.
 
-Together AI API: The integration layer used to perform fast inference and manage model requests.
+Gemini AI API: The integration layer used to perform fast inference and manage model requests.
